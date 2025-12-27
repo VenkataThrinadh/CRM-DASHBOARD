@@ -2,3 +2,10 @@
 # YoYo AI version control directory
 .yoyo/
 node_modules
+
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
